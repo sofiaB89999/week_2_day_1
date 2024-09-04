@@ -1,0 +1,5 @@
+#ask someone what day is it 
+day=input ("what day is it today?")
+#ask them for thier favorite hobby
+#print out thier favorite holiday
+#a sentence
